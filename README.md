@@ -18,5 +18,5 @@ Small changes were made to the CSS to make sure the functionality of the site re
 
 ## Links
 
-- https://paw6063.github.io/Homework01_Refactoring/
-- https://github.com/PAW6063/Homework01_Refactoring
+- https://paw6063.github.io/Refactoring/
+- https://github.com/PAW6063/Refactoring
